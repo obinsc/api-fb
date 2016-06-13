@@ -1,0 +1,32 @@
+{
+  "name": "api-fb",
+  "version": "1.0.0",
+  "description": "api fb bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibhorv/api-fb.git"
+  },
+  "keywords": [
+    "api.ai"
+  ],
+  "author": "vibhor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibhorv/api-fb/issues"
+  },
+  "homepage": "https://github.com/vibhorv/api-fb#readme",
+  "dependencies": {
+    "apiai": "2.0.5",
+    "async": "^2.0.0-rc.5",
+    "body-parser": "^1.15.0",
+    "express": "4.13.3",
+    "html-entities": "^1.2.0",
+    "json-bigint": "^0.2.0",
+    "node-uuid": "^1.4.7",
+    "request": "^2.71.0"
+  },
+}
