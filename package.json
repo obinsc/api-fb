@@ -15,9 +15,6 @@
   ],
   "author": "vibhor",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vibhorv/api-fb/issues"
-  },
   "homepage": "https://github.com/vibhorv/api-fb#readme",
   "dependencies": {
     "apiai": "2.0.5",
@@ -28,5 +25,5 @@
     "json-bigint": "^0.2.0",
     "node-uuid": "^1.4.7",
     "request": "^2.71.0"
-  },
+  }
 }
